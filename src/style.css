@@ -1,0 +1,84 @@
+body {
+  padding-top: 20px;
+  font-family: Poppins, sans-serif;
+  background: linear-gradient(
+    109.6deg,
+    rgba(119, 44, 232, 0.68) 11.5%,
+    rgb(119, 44, 232) 91.2%
+  );
+}
+
+.container {
+  background: radial-gradient(
+    circle at 52.1% -29.6%,
+    rgb(144, 17, 105) 0%,
+    rgb(51, 0, 131) 100.2%
+  );
+  max-width: 720px;
+  width: 100%;
+  display: block;
+  margin: 3.125rem auto 0 auto;
+  box-sizing: border-box;
+  color: white;
+  border-radius: 10px;
+  padding: 20px;
+  font-size: 1rem;
+}
+
+input,
+button,
+select,
+textarea {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+.header {
+  text-align: center;
+  color: white;
+  padding: 0;
+  margin: 0;
+}
+
+.form-group {
+  border: 0;
+  padding: 0.25rem;
+  display: flex;
+  flex-direction: column;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.inline {
+  margin: 10px 0;
+  width: 100%;
+  border-radius: 0.25rem;
+  height: 2.375rem;
+  font-size: 15px;
+}
+.radio-buttons {
+  margin: 5px 0;
+}
+.input-textarea {
+  min-height: 120px;
+  width: 100%;
+}
+.submit-button {
+  display: block;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0.75rem;
+  background: #37af65;
+  color: inherit;
+  border-radius: 2px;
+  cursor: pointer;
+  border: none;
+  font-family: inherit;
+  box-sizing: border-box;
+}
+
