@@ -9,7 +9,7 @@ I've learned with freecodecamp.org & practices my skills to build a form.
 ## Link
 
 Visit the countdown app
-[countdown-app](https://cheery-kleicha-6e5951.netlify.app/)
+[survey](https://cheery-kleicha-6e5951.netlify.app/)
 
 ## Code Snippet
 
